@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRANCENTO", "TRANCENTO\TRANCENTO.csproj", "{A4DCB394-CC9E-4216-BA60-CC043A614678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4DCB394-CC9E-4216-BA60-CC043A614678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DCB394-CC9E-4216-BA60-CC043A614678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DCB394-CC9E-4216-BA60-CC043A614678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DCB394-CC9E-4216-BA60-CC043A614678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {098F9742-B10C-41C2-9371-706468E520C7}
+	EndGlobalSection
+EndGlobal
